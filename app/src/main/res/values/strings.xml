@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Beer Adviser</string>
+    <string name="find_beer">Buscar el proyecto</string>
+    <string name="brands">Cero proyectos seleccionados a desarrollar</string>
+    <string-array name="tipos_proyectos_A_Desarrollar">
+        <item>Escoge el proyecto</item>
+        <item>Gestion Financiera</item>
+        <item>Gestion de Inversion</item>
+        <item>Reservas Naturales y Parques</item>
+        <item>Trasporte Sostenible</item>
+        <item>Construcción de Bases Militares</item>
+        <item>Culturales y Recreativos</item>
+        <item>Gestión de Tráfico</item>brands
+    </string-array>
+</resources>
